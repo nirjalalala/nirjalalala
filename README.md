@@ -6,7 +6,7 @@
 
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/ZqghJjHiZJwAAAAm/dudu-working-computer.webp"/>
 
-I am a **Computer Science** student, currently halfway through my degree, expanding my knowledge in both back-end and front-end development. I have experience as a backend developer for AI and Automation, and my goal is to strengthen my skills and explore new technologies. I love to learn and build something new, creative and fun.
+I am a **Computer Science** student, recently graduated with a 4 year B.Sc.CSIT degree, expanding my knowledge in both back-end and front-end development. I have experience as a backend developer for AI and Automation, and my goal is to strengthen my skills and explore new technologies. I love to learn and build something new, creative and fun.
 - 📚 I’m currently learning ...
   - *Natural Language Processing (NLP)*
   - *Constraint Programming + Machine Learning*
@@ -20,7 +20,7 @@ I am a **Computer Science** student, currently halfway through my degree, expand
 <!-- Social Links -->
 <div align="center">
   <a href="mailto:pandeynirjala6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/nirjala-pandey-997755226/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/nirjalalala/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
 <br>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
@@ -43,6 +43,9 @@ I am a **Computer Science** student, currently halfway through my degree, expand
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
 
+###### Desktop Application Development:
+![ElectronJS](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff)&nbsp;
+
 ###### Database Management:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -54,6 +57,8 @@ I am a **Computer Science** student, currently halfway through my degree, expand
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
+![AWS VPS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+
 
 ###### API Testing & Validation:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
@@ -70,8 +75,6 @@ I am a **Computer Science** student, currently halfway through my degree, expand
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)&nbsp;
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 
 ###### Development Tools:
@@ -79,6 +82,9 @@ I am a **Computer Science** student, currently halfway through my degree, expand
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
+![Ubuntu Linux](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)&nbsp;
+![Fedora Workstation Linux](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)&nbsp;
+![RHEL](https://img.shields.io/badge/Red%20Hat-EE0000?logo=redhat&logoColor=fff)&nbsp;
 
 ###### Development Environments:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
