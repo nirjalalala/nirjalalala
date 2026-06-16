@@ -1,6 +1,6 @@
 # Nirjala Pandey
 
-I build backend systems for AI and automation — the pipelines, APIs, and infrastructure that make models actually useful in production. Mostly Python and .NET. Right now I'm going deep on agentic AI and what it takes to build systems that can reason and act, not just respond.
+I build backend systems and automation infrastructure: APIs, orchestration platforms, and the deployment pipelines that keep everything running. Most recently at [Quickfox Consulting](https://quickfoxconsulting.com), where I spent 10 months building and maintaining production Django backends, and microservices. Right now I'm going deep on agentic AI and what it takes to build systems that can reason and act, not just respond.
 
 ## Projects
 
@@ -11,7 +11,7 @@ I build backend systems for AI and automation — the pipelines, APIs, and infra
 ## Skills
 
 **Backend:** Python (FastAPI, Django), C# (.NET), PostgreSQL  
-**AI/ML:** scikit-learn, TensorFlow, NLP pipelines  
+**Data/ML:** scikit-learn, Pandas, NumPy  
 **Infrastructure:** Docker, AWS, Linux
 
 ## Contact
